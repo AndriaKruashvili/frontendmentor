@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: hsl(233, 47%, 7%);
+}
+main {
+    width: 546px;
+    height: 465px;
+    background-color: hsl(244, 38%, 16%);
+    margin-top: 250px;
+    margin-left: 20%;
+    border-radius: 10px 0px 0px 10px;
+    display: flex;
+}
+.image {
+    margin-left: 0px;
+    border-radius: 0px 10px 10px 0px;
+    filter: sepia(100%) hue-rotate(240deg) brightness(60%);
+    height: 461PX;
+    margin-left: 118px;
+    margin-top: 0px;
+    
+}
+.text {
+    font-weight: 700;
+    color: hsl(0, 0%, 100%);
+    font-size: 40px;
+    font-family: 'Outfit', sans-serif;
+    position: absolute;
+    padding-left: 80px;
+    padding-top: 70px;
+}
+.gasastili {
+    color: hsl(277, 64%, 61%);
+    
+}
+.discover {
+    font-family: 'Outfit', sans-serif;
+    color: hsla(0, 0%, 100%, 0.75);
+    font-weight: 400;
+    position: absolute;
+    padding-top: 200px;
+    padding-left: 80px;
+}
+.k {
+    font-size: 30px;
+    color: hsl(0, 0%, 100%);
+    font-family: 'Outfit', sans-serif;
+    padding-top: 330px;
+    padding-bottom: 0px;
+    padding-left: 80px;
+}
+.companies {
+    font-size: 13px;
+    color: hsla(0, 0%, 100%, 0.75);
+    font-weight: 400;
+    letter-spacing: 1px;
+    margin-bottom: 0px;
+}
+.temp {
+    font-size: 30px;
+    color: hsl(0, 0%, 100%);
+    font-family: 'Outfit', sans-serif;
+    padding-left: 220px;
+    margin-bottom: -150px;
+    margin-top: -75px;
+}
+.templates {
+    font-size: 13px;
+    color: hsla(0, 0%, 100%, 0.75);
+    font-family: 'Outfit', sans-serif;
+    margin-bottom: 0px;
+}
+.m {
+    font-size: 30px;
+    color: hsl(0, 0%, 100%);
+    font-family: 'Outfit', sans-serif;
+    padding-left: 360px;
+    margin-top: 74px;
+}
+.queries {
+    font-size: 13px;
+    color: hsla(0, 0%, 100%, 0.75);
+    font-weight: 400;
+    letter-spacing: 1px;
+    margin-bottom: 0px;
+}
+
+
+
+
+
