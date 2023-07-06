@@ -1,0 +1,102 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background: url(../images/bg-pattern-bottom.svg), url(../images/bg-pattern-top.svg);
+    background-color: hsl(185, 75%, 39%); 
+    font-family: 'Outfit', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main {
+    height: 450px;
+    width: 400px;
+    background-color: white;
+    border-radius: 20px;
+}
+.imagebackground {
+    border-radius: 20px 20px 0px 0px;
+    width: 100%;
+    
+}
+.victor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.victor-photo {
+    border-radius: 50%;
+    margin-top: -50px;
+    border: 5px solid white;
+}
+.name {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    font-size: 20px;
+    color: hsl(229, 23%, 23%);
+}
+.number {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: -125px;
+    margin-top: -43px;
+    font-weight: 400;
+    margin-left: 25px;
+    font-size: 20px;
+    color: hsl(0, 0%, 59%);
+}
+.london {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -30px;
+    font-size: 18px;
+    color: hsl(0, 0%, 59%);
+}
+.fallowers-number {
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 15%;
+    margin-top: 70px;
+    margin-bottom: 0px;
+}
+.fallowers {
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 15%;
+    color: hsl(0, 0%, 59%);
+    margin-top: -20px;
+    margin-left: 40px;
+}
+.likes-number {
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 45%;
+    margin-top: -68px;
+}
+.likes {
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 45%;
+    margin-top: -40px;
+    color: hsl(0, 0%, 59%);
+    margin-left: 183px;
+}
+.photos-number {
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 75%;
+    margin-top: -68px;
+}
+.photos {
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 75%;
+    margin-top: -40px;
+    color: hsl(0, 0%, 59%);
+    margin-left: 291px;
+}
